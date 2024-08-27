@@ -10,7 +10,8 @@
 hassanagmir/hassanagmir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <script>
-  
+<script>
+  windows.location.href("https://freesad.com");
+</script>
 </script>
