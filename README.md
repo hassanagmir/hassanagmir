@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <script>
-  windows.location.href("https://freesad.com");
+  
 </script>
